@@ -1,6 +1,6 @@
 # FOSSA License Scanner
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flevz0r%2Ffossa-license-scanner.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flevz0r%2Ffossa-license-scanner?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/custom%2B56511%2Ffossa-license-scanner-demo.svg?type=small)](https://app.fossa.com/projects/custom%2B56511%2Ffossa-license-scanner-demo?ref=badge_small)
 
 A comprehensive GitHub Action for FOSSA license scanning with detailed PR comments and policy violation reporting. This action combines FOSSA analysis with intelligent reporting to help maintain license compliance in your projects.
 
